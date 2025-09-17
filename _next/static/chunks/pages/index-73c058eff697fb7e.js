@@ -162,7 +162,7 @@
                 description:
                   "Be part of the FutureSyncX revolution and help shape the future of AI-driven blockchain.",
                 linkText: "Join Telegram",
-                linkUrl: "https://t.me/futuresyncx",
+                linkUrl: "https://t.me/futuresyncxai",
                 bgClass: a ? "bg-indigo-500/10" : "bg-indigo-100/60",
               },
             },
@@ -5811,7 +5811,7 @@
                 icon: (0, r.jsx)(O.LCd, {}),
                 link: "https://x.com/FutureSyncX",
               },
-              { icon: (0, r.jsx)(H.AGi, {}), link: "https://t.me/futuresyncx" },
+              { icon: (0, r.jsx)(H.AGi, {}), link: "https://t.me/futuresyncxai" },
             ],
             u = [
               {
@@ -5826,7 +5826,7 @@
               },
               {
                 name: "Telegram",
-                link: "https://t.me/futuresyncx",
+                link: "https://t.me/futuresyncxai",
                 icon: (0, r.jsx)(H.AGi, {}),
               },
             ],
